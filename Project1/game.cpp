@@ -5,7 +5,7 @@
 float player_1_p, player_1_dp, player_2_p, player_2_dp;
 float arena_half_size_x = 85, arena_half_size_y = 45;
 float player_half_size_x = 1.5, player_half_size_y = 12;
-float ball_p_x, ball_p_y, ball_dp_x = 100, ball_dp_y, ball_half_size = 1;
+float ball_p_x, ball_p_y, ball_dp_x = 150, ball_dp_y, ball_half_size = 1;
 
 int player_1_score, player_2_score;
 
