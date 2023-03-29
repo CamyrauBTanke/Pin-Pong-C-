@@ -1,4 +1,4 @@
-# Pin-Pong_game
+# Pin-Pong_game-Desktop_App
 ### Short description
 > A simple ping-pong game. Game for two players on one computer. Made using C++ programming language and Microsoft Visual Studio programming environment.
 
